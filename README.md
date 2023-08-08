@@ -23,4 +23,4 @@
 
 # Summary:
 
-    The model was able to predict 100 % of precision and recall when predicting for Low risk/ healthy loan but showed only 87 % and 89% in case of unhealthy /High risk loan.
+   As The model was able to predict 100 % of precision and recall when predicting for Low risk/ healthy loan but showed only 87 % and 89% in case of unhealthy /High risk loan I wouldnt recommended the model for use by the company.
